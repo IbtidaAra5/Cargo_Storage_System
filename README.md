@@ -44,7 +44,6 @@ Everything runs locally on the Arduino, so the fire protection keeps working **e
 ---
 
 ## ⚙️ How It Works
-
 ```mermaid
 flowchart TD
     A([Start loop]) --> B{RFID card scanned?}
