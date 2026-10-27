@@ -12,12 +12,9 @@
 ![Fire safety](https://img.shields.io/badge/Fire_Suppression-Automatic-EF4444?style=for-the-badge)
 ![Offline](https://img.shields.io/badge/Works-Offline-22C55E?style=for-the-badge)
 
-<sub>The working prototype</sub>
-
 </div>
 
 ---
-
 ## 📖 About the Project
 
 Cargo facilities in many developing regions still depend on **manual entry registers** and **passive fire alarms**. Registers are slow and easy to get wrong, and a normal alarm only makes noise. It cannot stop a fire. The fire incident at Shahjalal International Airport showed how costly that gap can be.
