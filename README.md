@@ -12,8 +12,6 @@
 ![Fire safety](https://img.shields.io/badge/Fire_Suppression-Automatic-EF4444?style=for-the-badge)
 ![Offline](https://img.shields.io/badge/Works-Offline-22C55E?style=for-the-badge)
 
-<img src="docs/images/full-system.png" alt="Smart Cargo Storage System prototype" width="360">
-
 <sub>The working prototype</sub>
 
 </div>
@@ -227,21 +225,7 @@ Smoke test: clean air read about **50 – 100** on the MQ-2, and synthetic smoke
 
 ---
 
-## 👥 Team (Group 4)
 
-Project by students of the Department of Computer Science and Engineering, **United International University**, Dhaka.
-
-- Alifa Yeasmin
-- Abir Hossain
-- MD. Abid Raihan Tazim
-- Rafid Shabab Remal Patwary
-- Wahida Akter Poly
-- **Ibtida Ara**
-
-[![GitHub](https://img.shields.io/badge/GitHub-IbtidaAra5-6b9ac4?style=flat-square&logo=github&logoColor=white)](https://github.com/IbtidaAra5)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6b9ac4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibtida-ara-a505983b4)
-
----
 
 ## 📄 License
 
